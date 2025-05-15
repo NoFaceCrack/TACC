@@ -31,8 +31,11 @@ A simple and powerful tool that helps you leave all unwanted Telegram channels, 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/errorsploit/TACC.git
+git clone https://github.com/NoFaceCrack/TACC.git
+```
+```bash
 cd TACC
+```
 ```
 
 ---
