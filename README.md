@@ -1,6 +1,6 @@
 # 🔴 TACC – Telegram Auto Channel Clear Tool
 
-**Developed by [Naresh](https://instagram.com/errorexploit)** — Ethical Hacker & Tech Creator
+**Developed by [Naresh](https://www.instagram.com/ismart_nrh?igsh=MjJoejQ0ZjlwNmVv)** — Ethical Hacker & Tech Creator
 
 A simple and powerful tool that helps you leave all unwanted Telegram channels, dead groups, and bot chats at once — right from the terminal!
 
@@ -9,7 +9,7 @@ A simple and powerful tool that helps you leave all unwanted Telegram channels, 
 
 ## 📷 Preview
 
-<!-- Add a screenshot if you want -->
+<!-- banner.jpg -->
 
 ---
 
