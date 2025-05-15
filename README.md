@@ -9,7 +9,7 @@ A simple and powerful tool that helps you leave all unwanted Telegram channels, 
 
 ## 📷 Preview
 
-<!-- banner.jpg -->
+![Banner](banner.jpg)
 
 ---
 
