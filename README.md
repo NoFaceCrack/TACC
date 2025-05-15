@@ -85,7 +85,7 @@ python main.py
 
 [![Instagram (Green)](https://img.shields.io/badge/Instagram-%40NoFaceCrack-brightgreen?style=for-the-badge&logo=instagram)](https://www.instagram.com/no.face.crack?igsh=Nzc0bjUwZXQyY3Bv)
 
-[![YouTube (Red)](https://img.shields.io/badge/YouTube-%40NoFaceCrack-blue?style=for-the-badge&logo=instagram)](https://www.youtube.com/@NoFaceCrack)
+[![YouTube](https://img.shields.io/badge/YouTube-%40NoFaceCrack-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@NoFaceCrack)
 
 ---
 
